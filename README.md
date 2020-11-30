@@ -1,2 +1,2 @@
 # gaussmf
-Gaussian matrix factorization
+MAP inference for Gaussian matrix factorization
